@@ -24,6 +24,8 @@ public class MiGong {
         System.out.println("hello git4");
         System.out.println("hello master test1");
         System.out.println("hello git test1");
+        System.out.println("pull test1");
+
 
         for (int i = 0;i < map.length; i++ ){
             for (int j = 0; j < map[0].length; j++){
